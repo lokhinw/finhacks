@@ -129,6 +129,7 @@ section {
 }
 
 .hero .buttons a:active {
+    background-color: #bc405b;
     transform: translate(0px, 3px);
     -webkit-transform: translate(0px, 5px);
     box-shadow: 0px 0px 0px 0px;
