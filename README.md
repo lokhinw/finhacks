@@ -1,4 +1,4 @@
-# MLH/mlh-hackathon-boilerplate
+# lokhinw/finhacks
 
 This is a hackathon boilerplate created by [Major League Hacking][mlh-github]. Using [Jekyll][jekyll], it has a extensible [configuration][config] that covers basic event information. You can then fork the website and have it hosted free through [GitHub Pages][github-pages]. It's free to use.
 
@@ -20,7 +20,7 @@ Advantages:
 1. Create a [GitHub][create-account] account if you haven't already.
 2. Fork this repository to your own account. [Click here to fork this repo][fork-repo].
 3. Edit [`_config.yml`][config] to configure for your own hackathon website.
-4. That's it - you should be able to access at `https://[github username].github.io/mlh-hackathon-boilerplate/`
+4. That's it - you should be able to access at `lokhinw.github.io/finhacks`
 
 [create-account]: https://github.com/join
 [fork-repo]: https://github.com/MLH/mlh-hackathon-boilerplate/fork
