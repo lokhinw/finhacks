@@ -7,6 +7,13 @@
 
     {{ content }}
 
+    <section class="footer">
+      <div class="container text-center">
+        <h1>{{ site.event.name }}</h1>
+        <h3>&copy; 2017 Toronto Youth Network</h3>
+      </div>
+    </section>
+
     <script src="{{ '/js/jquery-1.11.3.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 
     {% include analytics/google_analytics.html ga_id=site.tracking.google_analytics %}
