@@ -82,12 +82,12 @@ event:
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
-    - question: "What if I don't know how to code?"
-      answer: >
-        That's completely fine! A hackathon is a great place to gain some experience. We will have workshops, tutorials, and mentors to guide you through your project.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at Wealthsimple in the city of Toronto, Ontario.
+    - question: "What if I don't know how to code?"
+      answer: >
+        That's completely fine! A hackathon is a great place to gain some experience. We will have workshops, tutorials, and mentors to guide you through your project.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
