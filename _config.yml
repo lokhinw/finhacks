@@ -82,10 +82,9 @@ event:
     - question: "How much does it cost?"
       answer: >
         Nothing. Attending a hackathon is free.
-    - question: "Do I need to be a student to attend?"
+    - question: "What if I don't know how to code?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        That's completely fine! A hackathon is a great place to gain some experience. We will have workshops, tutorials, and mentors to guide you through your project.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at Wealthsimple in the city of Toronto, Ontario.
