@@ -199,6 +199,7 @@ section {
 .faq {
   background-color: #fff;
   position: relative;
+  padding-top: 50px;
 }
 
 .faq h1 {
