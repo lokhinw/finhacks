@@ -96,7 +96,9 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
-
+    - question: "My question is not answered here!"
+      answer: >
+        Feel free to email us at [contact@torontoyouthnetwork.com](mailto:contact@torontoyouthnetwork.com) or message us on [Facebook](https://www.facebook.com/torontoyouthnetwork/)
   # This is the message you'll receive once you've registered.
   register:
     message: >
