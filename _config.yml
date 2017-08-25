@@ -24,7 +24,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "FinHACKS | February 9th - 10th"
+  title:       "FinHACKS | February 17th - 18th"
   description: ""
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -32,7 +32,7 @@ seo:
 event:
   name:        "FinHACKS"
   description: ""
-  date:        "February 9th - 10th"
+  date:        "February 17th - 18th""
   location:    "Wealthsimple"
 
   trust_badge:
@@ -51,7 +51,7 @@ event:
 
   about:
     description: >
-      FinHACKS is Toronto Youth Network’s inaugural overnight student hackathon. From February 9th - 10th, 150 students from schools across the Greater Toronto Area (GTA) will be able to turn their ideas into real projects. Participants will form teams, experiment with new technologies, create something epic, and finally, pitch their hack to a panel of judges. Join us for 24 hours of innovation!
+      FinHACKS is Toronto Youth Network’s inaugural overnight student hackathon. From February 17th - 18th", 150 students from schools across the Greater Toronto Area (GTA) will be able to turn their ideas into real projects. Participants will form teams, experiment with new technologies, create something epic, and finally, pitch their hack to a panel of judges. Join us for 24 hours of innovation!
 
   # Info Sections
   info:
